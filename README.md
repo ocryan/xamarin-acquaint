@@ -61,7 +61,7 @@ https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-wind
 ## Platform-specific UI Features (in native version only)
 | 3D Touch Previewing (iOS) | Shared View Transitions (Android) |
 | --- | --- |
-| ![3d touch](https://github.com/xamarinhq/app-acquaint/blob/master/Screenshots/Acquaint_N_3DTouch.gif) | ![shared view](https://github.com/xamarinhq/app-acquaint/blob/master/Screenshots/Acquaint_N_SharedViewTransitions.gif) |
+| ![3d touch](Screenshots/Acquaint_N_3DTouch.gif) | ![shared view](Screenshots/Acquaint_N_SharedViewTransitions.gif) |
 
 
 ## Screens
