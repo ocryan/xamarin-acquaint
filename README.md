@@ -2,7 +2,7 @@
 
 A simple Xamarin app named *Acquaint*. The app is a simple list of contacts, each of which can be viewed in a detail screen and modified in an edit screen. It runs on iOS 9+, Android 4.2+, and UWP (mobile and desktop).
 
-![image](https://github.com/xamarinhq/app-acquaint/blob/master/Screenshots/AllScreens_AllPlatforms.jpg)
+![image](Screenshots/AllScreens_AllPlatforms.jpg)
 
 ##Build Status
 | Project               | master branch                                                                                              |
