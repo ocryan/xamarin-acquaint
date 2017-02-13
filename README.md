@@ -2,16 +2,16 @@
 
 A simple Xamarin app named *Acquaint*. The app is a simple list of contacts, each of which can be viewed in a detail screen and modified in an edit screen. It runs on iOS 9+, Android 4.2+, and UWP (mobile and desktop).
 
-![image](Screenshots/AllScreens_AllPlatforms.jpg)
+![screenshots](Screenshots/AllScreens_AllPlatforms.jpg)
 
 ##Build Status
 | Project               | master branch                                                                                              |
 |-----------------------|------------------------------------------------------------------------------------------------------------|
-| Acquaint.XForms.Droid | <img src="https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/3/badge" /> |
-| Acquaint.XForms.iOS   | <img src="https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/4/badge" /> |
-| Acquaint.XForms.UWP   | <img src="https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/18/badge" /> |
-| Acquaint.Native.Droid | <img src="https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/2/badge" /> |
-| Acquaint.Native.iOS   | <img src="https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/1/badge" /> |
+| Acquaint.XForms.Droid | https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/3/badge |
+| Acquaint.XForms.iOS   | https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/4/badge |
+| Acquaint.XForms.UWP   | https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/18/badge |
+| Acquaint.Native.Droid | https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/2/badge |
+| Acquaint.Native.iOS   | https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/1/badge |
 
 ##Cross-platform and native
 The app is implemented in two ways in order to demonstrate the two different approaches to Xamarin app development:
