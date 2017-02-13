@@ -2,9 +2,8 @@
 
 A simple Xamarin app named *Acquaint*. The app is a simple list of contacts, each of which can be viewed in a detail screen and modified in an edit screen. It runs on iOS 9+, Android 4.2+, and UWP (mobile and desktop).
 
-<img src="https://github.com/xamarinhq/app-acquaint/blob/master/Screenshots/AllScreens_AllPlatforms.jpg" />
+![image](https://github.com/xamarinhq/app-acquaint/blob/master/Screenshots/AllScreens_AllPlatforms.jpg)
 
-<!-- 
 ##Build Status
 | Project               | master branch                                                                                              |
 |-----------------------|------------------------------------------------------------------------------------------------------------|
@@ -13,7 +12,6 @@ A simple Xamarin app named *Acquaint*. The app is a simple list of contacts, eac
 | Acquaint.XForms.UWP   | <img src="https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/18/badge" /> |
 | Acquaint.Native.Droid | <img src="https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/2/badge" /> |
 | Acquaint.Native.iOS   | <img src="https://devops-mobile.visualstudio.com/_apis/public/build/definitions/7e091af6-0350-49cc-aee7-453edbd72186/1/badge" /> |
--->
 
 ##Cross-platform and native
 The app is implemented in two ways in order to demonstrate the two different approaches to Xamarin app development:
